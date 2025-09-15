@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Ece Naz👋
+
+👩‍🎓 I'm currently studying Mathematical Engineering at Yıldız Technical University in Istanbul.<br/>
+👩‍💻 I'm sharing my journey in programming.<br/>
+✨ Interested in data science, machine learning and AI.<br/>
+💭 Currently improving myself by making small projects.<br/>
 
 <!--
 **ecenazozbck/ecenazozbck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
